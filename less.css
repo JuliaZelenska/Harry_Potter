@@ -1,0 +1,21 @@
+body {
+    background-image: url(img/bgc-1.jpg);
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: sans-serif;
+    border-bottom: solid rgb(98, 224, 213) 5px;
+    padding: 30px;
+    background-color: rgba(112, 219, 219, 0.7);
+}
+
+.button {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
