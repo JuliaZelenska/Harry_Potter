@@ -25,3 +25,9 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+.text {
+    color: rgb(77, 51, 25);
+    font-size: large;
+    padding: 30px;
+}
