@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c973e578-71e0-4276-93ef-46e358bd16d8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dialog1.html" afterPath="$PROJECT_DIR$/dialog1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dialog2.html" afterPath="$PROJECT_DIR$/dialog2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less12.css" afterPath="$PROJECT_DIR$/less12.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -176,19 +173,26 @@
       <workItem from="1515151833950" duration="45000" />
       <workItem from="1515349773648" duration="1365000" />
       <workItem from="1516461365998" duration="50000" />
-      <workItem from="1516632565200" duration="13910000" />
+      <workItem from="1516632565200" duration="13990000" />
     </task>
+    <task id="LOCAL-00001" summary="(+) feature added - text &#10;(+) feature added - imgs">
+      <created>1516877768872</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516877768874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23568000" />
+    <option name="totallyTimeSpent" value="23648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="2064" height="1128" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.116883114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.116883114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -232,6 +236,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="(+) feature added - text &#10;(+) feature added - imgs" />
+    <option name="LAST_COMMIT_MESSAGE" value="(+) feature added - text &#10;(+) feature added - imgs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
